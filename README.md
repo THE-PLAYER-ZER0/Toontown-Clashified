@@ -28,5 +28,4 @@ Toontown: Clashified turns Toontown Rewritten into Toontown: Corporate Clash.
 
 ## Coming Soon:
 
-1. Estate Music
-2. Other music for the rest of the Cog Buildings
+1. Other music for the rest of the Cog Buildings
