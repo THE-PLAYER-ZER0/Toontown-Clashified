@@ -28,4 +28,6 @@ Toontown: Clashified turns Toontown Rewritten into Toontown: Corporate Clash.
 
 ## Coming Soon:
 
-1. Other music for the rest of the Cog Buildings
+1. Other Department music for the rest of the Cog Buildings
+2. Old Clash GUI
+3. More Clash Textures
